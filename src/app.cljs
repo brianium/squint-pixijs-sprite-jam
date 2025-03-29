@@ -23,7 +23,7 @@
 
 (defn ^:async run []
   (let [app       (js-await (create-app))
-        astronaut (js-await (create-sprite "/astronaut.png" 
+        astronaut (js-await (create-sprite "astronaut.png" 
                                          {:frame-width 341 
                                           :frame-height 341
                                           :rows 3

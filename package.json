@@ -9,6 +9,7 @@
   "author": "Brian Scaturro",
   "license": "MIT",
   "dependencies": {
+    "pixi.js": "^8.9.1",
     "squint-cljs": "^0.8.141",
     "tailwindcss": "^4.0.12"
   },
